@@ -1,12 +1,73 @@
-# React + Vite
+# 🥒🍫 Weird Food Pairing Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ever dipped a pickle in chocolate? No? Well, someone out there probably has—and now they have a place to share it.  
+**Weird Food Pairing Board** is a community-driven, anonymous web app where brave food adventurers post, explore, and celebrate bizarre flavor combos. Built with React, Supabase, and a deep love for culinary chaos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📝 **Anonymous Post Creation**  
+  Share your food confessions without fear. A simple, clean form lets you post your wildest edible experiments.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧠 **Home Feed**  
+  Browse a growing feed of weird food combos, from cereal-in-soup to sriracha banana splits.
+
+- 💬 **Post Interaction**  
+  Like it, hate it, or just confused? Interact with each post. Users can also edit or delete their own creations.
+
+- 🔐 **Supabase Auth + DB**  
+  Supabase handles authentication and database storage. All interactions are secure, fast, and efficient.
+
+---
+
+## 🛠 Tech Stack
+
+| Tech        | Purpose                            |
+|-------------|------------------------------------|
+| React       | Frontend UI                        |
+| JavaScript  | App logic                          |
+| Supabase    | Auth + Realtime database           |
+| HTML/CSS    | Structure & styling                |
+
+---
+
+## 📸 Demo
+
+Coming soon... (or insert a GIF/screenshots here)
+
+---
+
+## 🎯 Inspiration
+
+I love weird food pairings. Seriously. The way ketchup tastes with scrambled eggs? Beautiful. Pineapple and cottage cheese? Divine. This project was my way of turning that quirky love into something others could enjoy—and maybe even feel validated by.
+
+---
+
+## 🧠 Future Plans
+
+- Comment threads for each post
+- Voting system (🔥 or 🤢)
+- Random pairing generator for the brave
+- Mobile responsiveness improvements
+
+---
+
+## 🧑‍🍳 Want to Contribute?
+
+Fork it. Clone it. Add your own twist (code or culinary). PRs are welcome, just keep the weirdness coming.
+
+---
+
+## 📫 Contact
+
+Have a bug to report or just want to share your favorite cursed combo?
+
+📧 ww548@cornell.edu  
+🐙 [@wwang40 on GitHub](https://github.com/wwang40)
+
+---
+
+> 🍕+🍍 = art.  
+> 🥒+🍫 = innovation.  
+> This board = home for all of it.
