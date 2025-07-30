@@ -40,16 +40,7 @@ Coming soon... (or insert a GIF/screenshots here)
 
 ## 🎯 Inspiration
 
-I love weird food pairings. Seriously. The way ketchup tastes with scrambled eggs? Beautiful. Pineapple and cottage cheese? Divine. This project was my way of turning that quirky love into something others could enjoy—and maybe even feel validated by.
-
----
-
-## 🧠 Future Plans
-
-- Comment threads for each post
-- Voting system (🔥 or 🤢)
-- Random pairing generator for the brave
-- Mobile responsiveness improvements
+I love weird food pairings. Seriously. The way chili tastes with ice cream? Beautiful. Pineapple and cottage cheese? Divine. This project was my way of turning that quirky love into something others could enjoy—and maybe even feel validated by.
 
 ---
 
